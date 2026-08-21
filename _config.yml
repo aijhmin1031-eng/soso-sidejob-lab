@@ -26,9 +26,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-# 검색엔진 소유 확인 코드 (발급받으면 값 기입)
-# google_site_verification: XXXX
-# naver_site_verification: XXXX
+# 검색엔진 소유 확인 (jekyll-seo-tag가 meta 태그로 출력)
+webmaster_verifications:
+  google: 9XL1I6rKPO4iYuk-x1UC9VeuOyfQEipmiMYRplnquuI
+# naver: 발급받으면 아래 형식으로 추가
+#   naver: XXXX
 
 # 애드센스 승인 후 아래 주석을 해제하고 게시자 ID를 넣는다
 # google_adsense: ca-pub-XXXXXXXXXXXXXXXX
