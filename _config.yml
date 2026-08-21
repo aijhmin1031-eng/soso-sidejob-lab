@@ -21,5 +21,14 @@ show_excerpts: true
 minima:
   date_format: "%Y-%m-%d"
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# 검색엔진 소유 확인 코드 (발급받으면 값 기입)
+# google_site_verification: XXXX
+# naver_site_verification: XXXX
+
 # 애드센스 승인 후 아래 주석을 해제하고 게시자 ID를 넣는다
 # google_adsense: ca-pub-XXXXXXXXXXXXXXXX
