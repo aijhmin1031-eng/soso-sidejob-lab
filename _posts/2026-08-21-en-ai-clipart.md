@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making Sellable Clipart with AI: What Separates a Product from a Hobby"
-date: 2026-08-21 15:00:00 +0900
+date: 2026-08-21 08:30:00 +0900
 lang: en
 categories: english production
 ---

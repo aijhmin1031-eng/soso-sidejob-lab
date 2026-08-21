@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Selling Digital Files as a Side Hustle: The Full Map (Zero Capital)"
-date: 2026-08-21 13:00:00 +0900
+date: 2026-08-21 07:30:00 +0900
 lang: en
 categories: english starter-guide
 ---

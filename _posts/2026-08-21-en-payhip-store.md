@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Opening a Free Online Store Today with Payhip — A Real Walkthrough"
-date: 2026-08-21 14:00:00 +0900
+date: 2026-08-21 08:00:00 +0900
 lang: en
 categories: english sales-channels
 ---

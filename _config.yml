@@ -26,6 +26,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
+# 내부 문서는 사이트에 빌드하지 않음
+exclude:
+  - docs/
+  - README.md
+
 # 검색엔진 소유 확인 (jekyll-seo-tag가 meta 태그로 출력)
 webmaster_verifications:
   google: 9XL1I6rKPO4iYuk-x1UC9VeuOyfQEipmiMYRplnquuI
