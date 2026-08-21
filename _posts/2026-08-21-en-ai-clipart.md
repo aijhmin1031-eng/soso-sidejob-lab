@@ -11,6 +11,8 @@ The problem: **raw AI output is not a product.** After actually producing a
 watercolor clipart set of dozens of images and taking it to market-ready,
 here is what separates a hobby folder from something people pay for.
 
+![Watercolor illustration of a painting workspace with palette, brushes and swatches]({{ "/assets/hero_atelier.jpg" | relative_url }})
+
 ## 1. Lock the style with a fixed prompt suffix
 
 Clipart sells as a **set**. Buyers download 30–60 images and mix them in

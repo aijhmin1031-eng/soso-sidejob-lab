@@ -11,6 +11,8 @@ start with essentially zero capital. No inventory, no shipping, and a file
 you make once can sell forever. This is the map I put together while actually
 setting up my own store — the detailed stories follow in separate posts.
 
+![Watercolor illustration of a cozy work-from-home desk with a laptop and coffee]({{ "/assets/hero_start.jpg" | relative_url }})
+
 ## What exactly do you sell?
 
 A "digital file" is anything a buyer downloads and uses:
@@ -46,6 +48,8 @@ money flows through. Nearly mandatory for international platforms, and
 over a week. Apply first, prepare products while you wait.
 
 ## The order I would follow if starting again
+
+![Animated 4-step order: payout accounts first, finish a product line, open a storefront, enter the marketplace]({{ "/assets/steps_start_en.gif" | relative_url }})
 
 1. **Apply for payout accounts first** — the review time is the bottleneck.
 2. **Finish one product line** — not one or two items, but a coherent set of

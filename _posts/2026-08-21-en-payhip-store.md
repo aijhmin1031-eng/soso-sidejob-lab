@@ -11,6 +11,8 @@ The first wall you hit selling digital files is not the product — it is
 days or weeks for payout verification. The place you can open a real store in
 the meantime is **Payhip**. Here is how it went when I set one up.
 
+![Watercolor illustration of a charming tiny storefront with an awning]({{ "/assets/hero_store.jpg" | relative_url }})
+
 ## What Payhip is (and is not)
 
 Payhip is a UK-based platform specialized in selling downloadable products —
@@ -35,6 +37,8 @@ your pocket. It works as a practice ground before the marketplace opens, and
 as your direct-promotion sales link forever after.
 
 ## Setup, in the order it actually happens
+
+![Animated 4 steps of Payhip setup: sign up and check the URL, connect PayPal, add products, style the store]({{ "/assets/steps_payhip_en.gif" | relative_url }})
 
 1. **Sign up** — email is enough. You pick a store name and URL
    (payhip.com/yourstore). **Triple-check the spelling.** I created mine one

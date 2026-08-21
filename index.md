@@ -10,3 +10,5 @@ title: 홈
 실제로 계정을 만들고, 상품을 올리고, 막히고, 해결한 과정을 그대로 씁니다.
 
 English posts are available on the [English page](./en.html).
+
+![아늑한 책상 위 스케치북과 라떼, 도토리가 있는 수채화 일러스트]({{ "/assets/hero_home.jpg" | relative_url }})
